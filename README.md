@@ -22,6 +22,9 @@ $ ./composer.phar update
 # Provider registration
 
 ```php
-$app->register(new \Maxwell2022\Silex\Provider\PheanstalkServiceProvider());
-
+$app->register(new \Maxwell2022\Silex\Provider\PheanstalkServiceProvider(), array(
+    'pheanstalk.host' => 'localhost'
+));
 ```
+
+You can specify the following additional options: `pheanstalk.port` (default to 11300) and `pheanstalk.timeout` default to 30 seconds
