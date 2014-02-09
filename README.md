@@ -3,7 +3,7 @@ PheanstalkServiceProvider
 
 Silex Provider for pheanstalk 
 
-[![Latest Stable Version](https://poser.pugx.org/maxwell2022/pheanstalkserviceprovider/v/stable.png)](https://packagist.org/packages/maxwell2022/pheanstalkserviceprovider) [![Total Downloads](https://poser.pugx.org/maxwell2022/pheanstalkserviceprovider/downloads.png)](https://packagist.org/packages/maxwell2022/pheanstalkserviceprovider)
+[![Latest Stable Version](https://poser.pugx.org/maxwell2022/pheanstalkserviceprovider/v/stable.png)](https://packagist.org/packages/maxwell2022/pheanstalkserviceprovider) [![Total Downloads](https://poser.pugx.org/maxwell2022/pheanstalkserviceprovider/downloads.png)](https://packagist.org/packages/maxwell2022/pheanstalkserviceprovider) [![Latest Unstable Version](https://poser.pugx.org/maxwell2022/pheanstalkserviceprovider/v/unstable.png)](https://packagist.org/packages/maxwell2022/pheanstalkserviceprovider) [![License](https://poser.pugx.org/maxwell2022/pheanstalkserviceprovider/license.png)](https://packagist.org/packages/maxwell2022/pheanstalkserviceprovider)
 
 # Installation
 
